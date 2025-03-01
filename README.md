@@ -58,7 +58,7 @@ Untuk alur dalam __PHP__, program akan ditampilkan pada laman web seperti localh
 - Tampilan tabel dengan kolom berisi atribut dari class,
 - Tampilan CLI untuk wadah command yang dapat dimasukkan user dengan klik toggle button,
 
-User dapat melakukan command `ADD` untuk menambahkan data baru (ADD "\<Nama\>" "\<Kategori\>" \<Harga\> "\<Foto\>").
+User dapat melakukan command `ADD` untuk menambahkan data baru (ADD "\<Nama\>" "\<Jenis\>" "\<Bahan\>" "\<Warna\>" "\<Target\>" "\<Size\>" "\<Merk\>" \<Stok\> \<Harga\> "\<Foto\>").
 
 Catatan:
 - ID pada program __auto increment__ atau akan otomatis di-set,
@@ -67,3 +67,5 @@ Catatan:
 - Command `SHOW` akan otomatis dijalankan (tabel akan di-refresh) setelah setiap command lain dijalankan,
 - Foto hanya bisa menggunakan asset yang ada pada __list gambar__,
 - Gambar hanya dapat diubah, ditambahkan, dan dihapus __di luar dari program__.
+
+https://github.com/user-attachments/assets/80ae92d8-0da0-47c3-b22a-0e8a495341a7
