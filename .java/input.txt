@@ -1,0 +1,7 @@
+show
+add "Jaket Musim Dingin" "Outerwear" "Wol" "Hitam" "Beruang" "L" "Stay Warm" 50 2000000
+show
+add "Celana Pendek" "Casual" "Katun" "Biru" "Gajah" "S" "Summer Vibes" 30 150000
+add "Topi Pantai" "Aksesoris" "Jerami" "Coklat" "Kura-kura" "All Size" "Beach Time" 100 75000
+show
+exit

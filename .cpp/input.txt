@@ -1,0 +1,7 @@
+show
+add "Baju Hari Raya" "Full Set" "Polikarbonat" "Emas" "Kumbang" "3L" "Marhaban Ya Ramadhan" 100 5000000
+show
+add "Kemeja Motif Kurma" "Motif" "Sutera" "Putih" "Ubur-ubur" "M" "Minal Aidin wal Faidzin" 20 50000
+add "Baju renang" "Kostum" "Karet" "Ungu" "Ikan Lele" "XXL" "GAP" 10000 1000
+show
+exit

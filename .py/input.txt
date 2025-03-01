@@ -1,0 +1,7 @@
+show
+add "Sepatu Olahraga" "Footwear" "Kulit" "Hitam" "Harimau" "42" "Run Fast" 50 750000
+show
+add "Tas Ransel" "Aksesoris" "Nilon" "Hijau" "Kucing" "Medium" "Adventure Time" 30 300000
+add "Kacamata Hitam" "Aksesoris" "Plastik" "Hitam" "Elang" "All Size" "Cool Look" 100 150000
+show
+exit
