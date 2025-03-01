@@ -1,0 +1,3 @@
+add "Hoodie Singa" "Outerwear" "Kasmir" "Kulit" "Guguk" "M" "Hakuna Matata" 40 180000
+add "Baju Polisi" "Kemeja" "Katun" "Biru" "Meow" "S" "Paw Patrol" 25 10000
+add "Kitty Ackerman" "Kostum" "Kain" "Cokelat" "Kucing" "All Size" "Maria Clothing" 10 2500000

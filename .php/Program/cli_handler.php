@@ -22,8 +22,8 @@
     $addTarget = trim ($addParts [9]);
     $addSize = trim ($addParts [11]);
     $addMerk = trim ($addParts [13]);
-    $addStok = intval (trim (explode (' ', $addParts [14])[0]));
-    $addHarga = intval (trim (explode (' ', $addParts [14])[1]));
+    $addStok = intval (trim (explode (' ', $addParts [14])[1]));
+    $addHarga = intval (trim (explode (' ', $addParts [14])[2]));
     $addFoto = trim ($addParts [15]);
     $list [] = new Baju ($newId, $addNama, $addJenis, $addBahan, $addWarna, $addTarget, $addSize, $addMerk, $addStok, $addHarga, $addFoto);
     $newId++;
